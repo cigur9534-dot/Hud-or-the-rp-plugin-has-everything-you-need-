@@ -1,0 +1,1 @@
+Questo è un plugin funzionale per il gioco di ruolo (RP), che include un HUD, un effetto sanguinamento, nickname e ruoli specifici per il gioco di ruolo. È adatto solo ai server RP, ma offre molto di più. Il plugin è originariamente in russo. Se desideri apportare modifiche, vai alla configurazione del plugin e modificala a tuo piacimento.
