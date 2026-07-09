@@ -1,0 +1,1 @@
+Ce plugin fonctionnel pour le jeu de rôle inclut une interface, un effet de saignement, des pseudos et des rôles RP. Il est uniquement compatible avec les serveurs RP, mais offre bien plus encore. Le plugin est initialement en russe. Pour le modifier, rendez-vous dans sa configuration et ajustez-la selon vos besoins.
